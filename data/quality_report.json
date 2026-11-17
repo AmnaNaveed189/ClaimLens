@@ -1,0 +1,27 @@
+{
+  "selected_urls": 136,
+  "valid_extracted_records": 135,
+  "missing_or_insufficient_records": 1,
+  "duplicate_article_ids_in_raw_file": 0,
+  "by_source": {
+    "dawn_fact_check": {
+      "selected": 5,
+      "extracted": 5,
+      "missing": 0
+    },
+    "iverify_pakistan": {
+      "selected": 30,
+      "extracted": 29,
+      "missing": 1
+    },
+    "soch_fact_check": {
+      "selected": 101,
+      "extracted": 101,
+      "missing": 0
+    }
+  },
+  "missing_article_ids": [
+    "iverify_0011"
+  ],
+  "empty_text_records": []
+}

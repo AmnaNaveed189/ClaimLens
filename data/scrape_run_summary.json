@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-11-17T18:55:38.523062+00:00",
+  "selected_urls": 136,
+  "valid_records": 135,
+  "new_records": 8,
+  "recovered_records": 0,
+  "still_needing_recovery": 1,
+  "selected_by_source": {
+    "soch_fact_check": 101,
+    "dawn_fact_check": 5,
+    "iverify_pakistan": 30
+  },
+  "failed_by_reason": {
+    "HTTP 200 but response too small (0 bytes); possible block/interstitial": 1
+  }
+}

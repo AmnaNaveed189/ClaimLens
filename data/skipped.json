@@ -1,0 +1,12 @@
+[
+  {
+    "article_id": "iverify_0011",
+    "url": "https://beta.iverifypakistan.com/news/1000635",
+    "source": "iverify_pakistan",
+    "topic": "disinformation",
+    "claim_idea": "Images show Imran Khan in handcuffs",
+    "reason": "HTTP 200 but response too small (0 bytes); possible block/interstitial",
+    "http_status": 200,
+    "checked_at": "2026-11-17T18:55:17.991618+00:00"
+  }
+]
